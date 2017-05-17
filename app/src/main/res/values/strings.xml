@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="text_timeelapsed">Tempo Decorrido</string>
+    <string name="placeholder_timer">00:00</string>
+    <string name="timer_format">MM:SS</string>
+    <string name="text_start">Começar</string>
+    <string name="text_pause">Pausar</string>
+    <string name="text_restart">Recomeçar</string>
+</resources>
